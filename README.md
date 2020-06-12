@@ -1,5 +1,8 @@
 # Edge-Links
 
+https://gguanglu.blogspot.com/2020/04/exploration-and-practices-of-edge.html
+
+https://www.telcocloudbridge.com/blog/mec-in-nfv-how-does-mec-fit-in-nfv-architecture/
 
 Mobile Edge Emulation from InterDigital
 https://github.com/InterDigitalInc/AdvantEDGE
